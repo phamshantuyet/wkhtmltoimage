@@ -1,0 +1,1 @@
+FROM kevinsimper/wkhtmltoimage:latest
